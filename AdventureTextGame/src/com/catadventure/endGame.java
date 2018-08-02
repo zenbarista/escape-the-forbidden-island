@@ -1,6 +1,7 @@
 package com.catadventure;
 import java.util.Scanner;
 import java.util.concurrent.TimeUnit;
+//this is an edit so I can make a new pull request
 
 class endGame {
     private Scanner lostGame = new Scanner(System.in);
